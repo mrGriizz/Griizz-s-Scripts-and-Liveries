@@ -1,4 +1,4 @@
 # Griizz-s-Scripts-and-Liveries
-Used to own a Fivem Server, this was a little bit of the stuff.
+When I owned a FiveM Server, here are all the custom plugins used
 
-All of them Work great.
+All of them are fine, if you need anything Griizz#7291.
